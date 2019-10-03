@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/j"
+    android:padding="8dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+        <TextView
+            android:id="@+id/textIdOne"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:background="#81009688"
+            android:gravity="center"
+
+            android:text="Welcome android devoloper "
+            android:textColor="#FFFFFF"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textIdTwo"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="#81009688"
+            android:gravity="center"
+            android:text="Name : Hamdiur Rahman "
+            android:textColor="#FCFCFC"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textIdThree"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="#81009688"
+            android:gravity="center"
+            android:text="Advanced_Android_TD_Batch-05"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+
+        <TextView
+            android:id="@+id/textIdFour"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="#81009688"
+            android:gravity="center"
+            android:text="Education : HSC ,In English"
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/textIdFive"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="#81009688"
+            android:gravity="center"
+            android:text="Home town : Jessore "
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+
+
+
+</LinearLayout>
+
